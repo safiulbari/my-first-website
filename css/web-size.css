@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#container {
+    position: relative;
+    width: 100%;
+    height: 80px;
+    background-color: #130f40;
+    display: flexbox;
+    overflow: hidden;
+}
+.logo{
+    padding-left:100px ;
+    padding-top: 16px;
+    width: 140px;
+}
+#img2 {
+    width: 140px;
+    
+}
+.navbar{
+    position: absolute;
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Poppins;
+}
